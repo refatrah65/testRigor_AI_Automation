@@ -1,0 +1,7 @@
+enter "Admin" into "Username"
+enter "admin123" into "Password"
+click "Login"
+click "Admin"
+click "hadi123"
+click on 11th "oxd-icon bi-trash"
+click " Yes, Delete "

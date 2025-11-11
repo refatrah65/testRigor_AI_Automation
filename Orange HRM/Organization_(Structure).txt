@@ -1,0 +1,7 @@
+enter "Admin" into "Username"
+enter "admin123" into "Password"
+click "Login"
+click "Admin"
+click "Organization"
+click "Structure"
+click on the 1st "oxd-tree-node-toggle"
